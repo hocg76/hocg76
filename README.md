@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola 👋, meu nome e **Henry**
+#### Eu sou Front-end web desenvolvedor.
+ Sou *Técnico Superior Universitário em Informática* com vários anos de experiência. Feliz Esposo y Pai.
 
-<!--
-**hocg76/hocg76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Habilidades: HTML / CSS / JS
 
-Here are some ideas to get you started:
+- 🔭 Estoy trabajando en esta página. 
+- 📫 Cómo contactarme: henrycalderon001@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hocg76)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hocg76)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/hocg76)
